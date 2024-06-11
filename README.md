@@ -7,3 +7,5 @@ TODO:
 - Stop text from collapsing onto new lines.
 - Stop footer from resizing when you zoom out.
 - Clean up the CSS. Eliminate redundancies and merge duplicate entries.
+
+May leave unpolished and move onto newer projects.
