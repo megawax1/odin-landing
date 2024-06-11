@@ -40,6 +40,7 @@ a {
     gap: 30px;
     justify-content: center;
     padding: 60px 160px;
+    flex-wrap: nowrap;
 }
 .column {
     display: flex;
@@ -68,6 +69,7 @@ a {
     display: flex;
     gap: 16px;
     align-items: center;
+    flex-wrap: wrap;
 }
 .signup {
     display: flex;
@@ -98,17 +100,7 @@ a {
     font-size: 36px;
     font-style: italic;
     }
-.image-placeholder {
-    background-color: #555;
-    padding: 50px;
-    width: 200px;
-    height: 100px;
-    text-align: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-shrink: 0;
-}
+
 
 .author {
     text-align: right;
