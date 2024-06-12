@@ -6,3 +6,6 @@ TODO:
 - Fix first column's padding when resized to be consistent with the navbar / logo's.
 - Stop text from collapsing onto new lines.
 - Stop footer from resizing when you zoom out.
+- Clean up the CSS. Eliminate redundancies and merge duplicate entries.
+
+Might leave unpolished and move onto newer projects to build up some more volume. 
